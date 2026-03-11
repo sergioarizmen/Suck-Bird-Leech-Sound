@@ -1,3 +1,4 @@
+# Base Unreal Engine files.
 DerivedDataCache/
 Intermediate/
 Saved/
@@ -6,4 +7,11 @@ Saved/
 Binaries/
 Source/
 FSD.sln
+
+# Log files.
 *.log
+
+# Other project files.
+/.build
+/.other
+/.versions
